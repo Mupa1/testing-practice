@@ -1,0 +1,26 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "This project involves testing functions in different files using Jest(a Javascript testing framework).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mupa1/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mupa1/testing-practice/issues"
+  },
+  "homepage": "https://github.com/Mupa1/testing-practice#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  }
+}
